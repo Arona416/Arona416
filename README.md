@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aronadakar7@gmail.com, 💻 GitHub:https://github.com/Arona416**
 
-- ⚡ Fun fact **I love creating video montages about sports, especially boxing 🥊 and kickboxing 🥋.**
+- ⚡ Fun fact **I love creating video montages and blogs. I also practice boxing 🥊 and kickboxing 🥋.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
