@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arona Barry</h1>
-<h3 align="center">🎯 A Passionate Data Analyst 📊 Transforming Data into Meaningful Insights</h3>
+<h3 align="center">📊 Turning data into decisions</h3>
 
-- 🌱 I’m currently learning **Frameworks: Streamlit, Dash (for building interactive applications) Visualization Tools: Power BI, Tableau Advanced SQL for complex queries**
 
-- 💬 Ask me about **Data Analysis, Python libraries (Pandas, NumPy) Building clean, interactive dashboards**
 
-- 📫 How to reach me **aronadakar7@gmail.com, 💻 GitHub:https://github.com/Arona416**
+🎓 Bachelor in Applied Computer Science  
+📊 Data Analyst transitioning into Data Science  
+💻 Python | SQL | Data Visualization | Machine Learning  
+🤖 Exploring AI & LLM Agents  
 
-- ⚡ Fun fact **I love creating video montages and blogs. I also practice boxing 🥊 and kickboxing 🥋.**
+## 🚀 Current Focus
+- Advanced SQL for analytics
+- Machine Learning with scikit-learn
+- Building end-to-end data projects
+
+## 📌 Featured Projects
+- Sales Data Analysis (SQL)
+- Customer Segmentation (Python)
+- Machine Learning Prediction Model
+
+## 📫 
+📧 aronadakar7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
